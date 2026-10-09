@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+groq
+langchain
+langchain-core
+langchain-groq
+PyPDF2
+python-docx
+mammoth
+email-validator
+python-multipart
+pydantic

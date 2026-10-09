@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: hiring-workflow
+Version: 0.1.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: langgraph
+Requires-Dist: groq
+Requires-Dist: langchain
+Requires-Dist: langchain-core
+Requires-Dist: langchain-groq
+Requires-Dist: PyPDF2
+Requires-Dist: python-docx
+Requires-Dist: mammoth
+Requires-Dist: email-validator
+Requires-Dist: python-multipart
+Requires-Dist: pydantic
+Dynamic: requires-dist
